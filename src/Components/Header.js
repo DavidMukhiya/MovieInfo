@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div class="jumbotron jumbotron-fluid bg-secondary p-3">
+    <div class="jumbotron jumbotron-fluid p-3 text-uppercase" style={{backgroundColor:"aquamarine"}}>
       <div class="container">
-        <h1 class="display-4">Movie Information</h1>
+        <h1 style={{fontSize:"4rem", fontFamily:"monospace"}}>Movie Information</h1>
         <p class="lead">
           Know about the Movie.
         </p>
