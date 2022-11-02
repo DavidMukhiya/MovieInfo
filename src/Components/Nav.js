@@ -4,7 +4,7 @@ const Nav = () => {
   return (
     <div class="bg-dark">
         <ul class="container nav nav-pills display-6 bg-dark text-uppercase">
-      <li class="nav-item">
+      <li class="nav-item"  >
         <a class="nav-link" style={{color:"aquamarine"}} href="#">
           Movie Info
         </a>

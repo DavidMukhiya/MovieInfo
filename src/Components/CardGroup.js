@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "./Card";
-import avenger from "./../img/Avenger.jpg";
-import titanic from "./../img/Titanic.jpg";
+import avenger from "./../img/avenger.jpg";
+import titanic from "./../img/titanic.jpg";
 import jurassic from "./../img/jurassic park.jpg";
 
 const CardGroup = (props) => {
